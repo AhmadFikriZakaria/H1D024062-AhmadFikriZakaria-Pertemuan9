@@ -51,6 +51,4 @@ pip install matplotlib numpy
 4. Output berupa grafik plot evaluasi nilai fitness per generasi (`matplotlib`) akan otomatis terbuka. 
 5. Setelah jendela grafik ditutup (X), terminal akan memunculkan nilai fitness terbaik, total bobot, dan daftar barang yang terpilih di dalam knapsack.
 
-> **Tugas Praktikum:**
-> Untuk keperluan unggah (upload) ke GitHub sesuai instruksi, jadikan folder ini sebuah repository (dengan `git init`), kemudian buat repositori baru di GitHub dengan nama:
-> `[NIM]-PraktikumKB-Pertemuan9` (ganti `[NIM]` dengan Nomor Induk Mahasiswa-mu).
+  
